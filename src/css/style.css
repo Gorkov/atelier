@@ -1,0 +1,27 @@
+/*Header*/
+/*Logotip*/
+.logo-row {
+	margin-bottom: 4%;
+}
+.brand-img {
+	display: block;
+}
+.brand-text {
+	font-size: 0.8em;
+}
+/*end Logotip*/
+/*Navigation*/
+.nav-link {
+	margin-left: 150px;
+
+}
+.nav-list {;
+	margin-left: 10%;
+
+}
+.navbar-brand {
+	margin-left: 25%;
+
+}
+/*end Navigation*/
+/*end Header*/
